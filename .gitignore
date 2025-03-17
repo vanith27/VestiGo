@@ -171,4 +171,8 @@ cython_debug/
 .pypirc
 
 #AWS Credential file
+# Ignore config files
+config.json
 .env
+firebase_config.json
+credentials/
